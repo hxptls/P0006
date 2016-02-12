@@ -42,3 +42,7 @@ p {
 blockquote > p {
     text-indent: 0;
 }
+
+em > p {
+    text-indent: 0;
+}
