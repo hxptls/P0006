@@ -1,0 +1,25 @@
+#full-screen-headline {
+    width: 100%;
+    height: 500px;
+    min-height: 100%;
+    text-align: center;
+    box-shadow: inset 0 0 100px rgba(0, 0, 0, .5);
+}
+#full-screen-headline > #space-taker {
+    height: 40%;
+}
+
+#container {
+    padding: 0 30px;
+    line-height: 1.5;
+}
+#container > blockquote {
+    font-size: 15px;
+}
+footer {
+    padding: 40px 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 1px solid #e5e5e5;
+}
